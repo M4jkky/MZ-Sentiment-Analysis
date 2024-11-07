@@ -52,7 +52,3 @@ Nainštalujte požadované knižnice:
 ## Výsledky
 
 Výsledky modelov sú zobrazené v klasifikačných správach a maticiach zámen.
-
-## Záver
-
-Tento projekt demonštruje, ako vykonať sentimentálnu analýzu na dátach z Twitteru pomocou rôznych strojových modelov a optimalizovať ich hyperparametre.
